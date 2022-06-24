@@ -1,0 +1,12 @@
+What is file in JS?
+A JS file is a plain text file that contains JavaScript code. 
+ 
+has a require function  to build external modules ,reads a file (js)
+
+has readfilesync - used for reading the file and syunc untill finished 
+has writefilesync 
+
+function in nodejs
+Functions in Node.js are used directly in the code.
+ Using Node.js functions enables you to get the desired action of your
+ app in a single process, i.e., you don't have to create a new thread for every new request. 
